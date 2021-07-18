@@ -11,6 +11,10 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("BookWorld.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.API", "BookWorld.API.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("BookWorld.BLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.BLL", "BookWorld.BLL.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("BookWorld.DAL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.DAL", "BookWorld.DAL.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("BookWorld.Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.Entity", "BookWorld.Entity.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookWorld.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

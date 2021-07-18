@@ -60,9 +60,7 @@ namespace BookWorld.API
             {
                 app.UseDeveloperExceptionPage();
             }
-
             app.UseHttpsRedirection();
-
             app.UseRouting();
             app.UseAuthentication(); //contextte sorun oluşturabiliyor
             app.UseAuthorization();

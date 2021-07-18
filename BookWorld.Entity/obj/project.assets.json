@@ -6476,11 +6476,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.Entity\\BookWorld.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.Entity\\BookWorld.Entity.csproj",
       "projectName": "BookWorld.Entity",
-      "projectPath": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.Entity\\BookWorld.Entity.csproj",
+      "projectPath": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.Entity\\BookWorld.Entity.csproj",
       "packagesPath": "C:\\Users\\resis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.Entity\\obj\\",
+      "outputPath": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.API\\BookWorld.API.csproj": {}
+    "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.API\\BookWorld.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.API\\BookWorld.API.csproj": {
+    "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.API\\BookWorld.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.API\\BookWorld.API.csproj",
+        "projectUniqueName": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.API\\BookWorld.API.csproj",
         "projectName": "BookWorld.API",
-        "projectPath": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.API\\BookWorld.API.csproj",
+        "projectPath": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.API\\BookWorld.API.csproj",
         "packagesPath": "C:\\Users\\resis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.API\\obj\\",
+        "outputPath": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -33,11 +33,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.BLL\\BookWorld.BLL.csproj": {
-                "projectPath": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.BLL\\BookWorld.BLL.csproj"
+              "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.BLL\\BookWorld.BLL.csproj": {
+                "projectPath": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.BLL\\BookWorld.BLL.csproj"
               },
-              "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.DAL\\BookWorld.DAL.csproj": {
-                "projectPath": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.DAL\\BookWorld.DAL.csproj"
+              "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.DAL\\BookWorld.DAL.csproj": {
+                "projectPath": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.DAL\\BookWorld.DAL.csproj"
               }
             }
           }
@@ -113,14 +113,14 @@
         }
       }
     },
-    "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.BLL\\BookWorld.BLL.csproj": {
+    "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.BLL\\BookWorld.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.BLL\\BookWorld.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.BLL\\BookWorld.BLL.csproj",
         "projectName": "BookWorld.BLL",
-        "projectPath": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.BLL\\BookWorld.BLL.csproj",
+        "projectPath": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.BLL\\BookWorld.BLL.csproj",
         "packagesPath": "C:\\Users\\resis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.BLL\\obj\\",
+        "outputPath": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -142,11 +142,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.DAL\\BookWorld.DAL.csproj": {
-                "projectPath": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.DAL\\BookWorld.DAL.csproj"
+              "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.DAL\\BookWorld.DAL.csproj": {
+                "projectPath": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.DAL\\BookWorld.DAL.csproj"
               },
-              "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.Entity\\BookWorld.Entity.csproj": {
-                "projectPath": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.Entity\\BookWorld.Entity.csproj"
+              "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.Entity\\BookWorld.Entity.csproj": {
+                "projectPath": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.Entity\\BookWorld.Entity.csproj"
               }
             }
           }
@@ -179,14 +179,14 @@
         }
       }
     },
-    "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.DAL\\BookWorld.DAL.csproj": {
+    "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.DAL\\BookWorld.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.DAL\\BookWorld.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.DAL\\BookWorld.DAL.csproj",
         "projectName": "BookWorld.DAL",
-        "projectPath": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.DAL\\BookWorld.DAL.csproj",
+        "projectPath": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.DAL\\BookWorld.DAL.csproj",
         "packagesPath": "C:\\Users\\resis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.DAL\\obj\\",
+        "outputPath": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -208,8 +208,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.Entity\\BookWorld.Entity.csproj": {
-                "projectPath": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.Entity\\BookWorld.Entity.csproj"
+              "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.Entity\\BookWorld.Entity.csproj": {
+                "projectPath": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.Entity\\BookWorld.Entity.csproj"
               }
             }
           }
@@ -268,14 +268,14 @@
         }
       }
     },
-    "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.Entity\\BookWorld.Entity.csproj": {
+    "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.Entity\\BookWorld.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.Entity\\BookWorld.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.Entity\\BookWorld.Entity.csproj",
         "projectName": "BookWorld.Entity",
-        "projectPath": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.Entity\\BookWorld.Entity.csproj",
+        "projectPath": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.Entity\\BookWorld.Entity.csproj",
         "packagesPath": "C:\\Users\\resis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.Entity\\obj\\",
+        "outputPath": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

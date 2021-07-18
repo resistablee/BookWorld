@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yWAo4T2OTmggqN7M1uqOlKMHUDyIv4LoFOxgSYTQ/FYQpvMLAn+WMPcX7rvYD88vsZOthfHDZnNYS9nCqJZdwA==",
+  "dgSpecHash": "RwIq0+t/4375UsOUnMsJ7kH+XPDSW4aSlwEEfRenTgbYwD5m4ErQ5PRjgcWzX49YkamqUZo6SF1VNr4EoX3hww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.API\\BookWorld.API.csproj",
+  "projectFilePath": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.API\\BookWorld.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\resis\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\resis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

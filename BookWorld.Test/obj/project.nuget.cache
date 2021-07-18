@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MQYv0KUmvfOhumcqykDuFWosg4d6G27r0VT2NqsPEKKZC7Z1FikMFa+1eCRlZrzUSwAN20TcxElBpsdkWY2VDA==",
+  "dgSpecHash": "+/V6ujLK46I1JLuMg+xoY5ldIpmwI5fJEpnZw427nMH2N3rqbVE7TMqsYRVMBXRCaN5IWfWbRmrbgxp6k8zhqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.Test\\BookWorld.Test.csproj",
+  "projectFilePath": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.Test\\BookWorld.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\resis\\.nuget\\packages\\coverlet.collector\\3.0.3\\coverlet.collector.3.0.3.nupkg.sha512",
     "C:\\Users\\resis\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

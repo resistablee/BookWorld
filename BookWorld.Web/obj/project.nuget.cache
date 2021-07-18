@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0fgjhxJNBa4Ifh97kI+ypIdboxPqvudoskq/FPSmYGennYLMV7mpKlVZ2051q/ApDCJZ8xboORfqUQuls4oshw==",
+  "dgSpecHash": "uhIw8mo57XudLaHXGegWbtopQ1AmdeTcWqmI5geyRZl30ELv5hKXVnCFofYKkk0wnqRRqAPyNFn8+qrMbPbL0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.Web\\BookWorld.Web.csproj",
+  "projectFilePath": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.Web\\BookWorld.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\resis\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\resis\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HEN0/l5enrkGgkF2Ocw6q2VsCMsTTVRL9Wsc7w8oBomwLJJ7QjT7wwsYDW1syQ7PDRkxwkGXIa1bhqlbQLsFlg==",
+  "dgSpecHash": "iPdKGpI3Wm2bl9HdmW1I3HeLPJtCZ2RC+Hea+EPnwIbeJG771ug6qG91TphqUsg8laBEtgJcS1T6QZFbaBYLfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\resis\\Documents\\2. Projects\\2. C#\\3 - Web\\210609_BookWorld\\BookWorld.BLL\\BookWorld.BLL.csproj",
+  "projectFilePath": "C:\\Users\\resis\\Documents\\2. Projects\\6. Github\\BookWorld\\BookWorld.BLL\\BookWorld.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\resis\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\resis\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
