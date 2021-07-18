@@ -1,0 +1,10 @@
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\.vs\BookWorld\v16\lut\0\b\BookWorld.BLL\Debug\net5.0\BookWorld.BLL.deps.json
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\.vs\BookWorld\v16\lut\0\b\BookWorld.BLL\Debug\net5.0\BookWorld.BLL.dll
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\.vs\BookWorld\v16\lut\0\b\BookWorld.BLL\Debug\net5.0\ref\BookWorld.BLL.dll
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\.vs\BookWorld\v16\lut\0\i\BookWorld.BLL\Debug\net5.0\BookWorld.BLL.csproj.AssemblyReference.cache
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\.vs\BookWorld\v16\lut\0\i\BookWorld.BLL\Debug\net5.0\BookWorld.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\.vs\BookWorld\v16\lut\0\i\BookWorld.BLL\Debug\net5.0\BookWorld.BLL.AssemblyInfoInputs.cache
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\.vs\BookWorld\v16\lut\0\i\BookWorld.BLL\Debug\net5.0\BookWorld.BLL.AssemblyInfo.cs
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\.vs\BookWorld\v16\lut\0\i\BookWorld.BLL\Debug\net5.0\BookWorld.BLL.csproj.CopyComplete
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\.vs\BookWorld\v16\lut\0\i\BookWorld.BLL\Debug\net5.0\BookWorld.BLL.dll
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\.vs\BookWorld\v16\lut\0\i\BookWorld.BLL\Debug\net5.0\ref\BookWorld.BLL.dll

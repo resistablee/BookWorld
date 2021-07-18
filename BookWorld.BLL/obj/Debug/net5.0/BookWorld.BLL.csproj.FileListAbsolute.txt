@@ -1,0 +1,17 @@
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.BLL\bin\Debug\net5.0\BookWorld.BLL.deps.json
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.BLL\bin\Debug\net5.0\BookWorld.BLL.dll
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.BLL\bin\Debug\net5.0\ref\BookWorld.BLL.dll
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.BLL\bin\Debug\net5.0\BookWorld.BLL.pdb
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.BLL\bin\Debug\net5.0\BookWorld.DAL.dll
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.BLL\bin\Debug\net5.0\BookWorld.Entity.dll
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.BLL\bin\Debug\net5.0\BookWorld.DAL.pdb
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.BLL\bin\Debug\net5.0\BookWorld.Entity.pdb
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.BLL\obj\Debug\net5.0\BookWorld.BLL.csproj.AssemblyReference.cache
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.BLL\obj\Debug\net5.0\BookWorld.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.BLL\obj\Debug\net5.0\BookWorld.BLL.AssemblyInfoInputs.cache
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.BLL\obj\Debug\net5.0\BookWorld.BLL.AssemblyInfo.cs
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.BLL\obj\Debug\net5.0\BookWorld.BLL.csproj.CoreCompileInputs.cache
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.BLL\obj\Debug\net5.0\BookWorld.BLL.csproj.CopyComplete
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.BLL\obj\Debug\net5.0\BookWorld.BLL.dll
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.BLL\obj\Debug\net5.0\ref\BookWorld.BLL.dll
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.BLL\obj\Debug\net5.0\BookWorld.BLL.pdb

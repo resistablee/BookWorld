@@ -1,0 +1,33 @@
+﻿@using BookWorld.Entity.Entities
+@model List<Books>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Kitaplarım</h1>
+</div>
+<br />
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Kitap adı</th>
+            <th scope="col">Yazar</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Author</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<button class="btn btn-success mb-4" data-toggle="modal" data-target="#AddUserBook" title="Kitap ekle">Kitap ekle</button>
+
+<div id="AddUserBook" class="modal" role="dialog">
+    @await Component.InvokeAsync("Books")
+</div>

@@ -1,0 +1,12 @@
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.Entity\bin\Debug\net5.0\BookWorld.Entity.deps.json
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.Entity\bin\Debug\net5.0\BookWorld.Entity.dll
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.Entity\bin\Debug\net5.0\ref\BookWorld.Entity.dll
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.Entity\bin\Debug\net5.0\BookWorld.Entity.pdb
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.Entity\obj\Debug\net5.0\BookWorld.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.Entity\obj\Debug\net5.0\BookWorld.Entity.AssemblyInfoInputs.cache
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.Entity\obj\Debug\net5.0\BookWorld.Entity.AssemblyInfo.cs
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.Entity\obj\Debug\net5.0\BookWorld.Entity.csproj.CoreCompileInputs.cache
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.Entity\obj\Debug\net5.0\BookWorld.Entity.dll
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.Entity\obj\Debug\net5.0\ref\BookWorld.Entity.dll
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.Entity\obj\Debug\net5.0\BookWorld.Entity.pdb
+C:\Users\resis\Documents\2. Projects\2. C#\3 - Web\210609_BookWorld\BookWorld.Entity\obj\Debug\net5.0\BookWorld.Entity.csproj.AssemblyReference.cache
