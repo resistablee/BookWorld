@@ -26,7 +26,7 @@ namespace BookWorld.BLL.Conctrate
                     new Claim(ClaimTypes.Surname, user.Surname),
                     new Claim(ClaimTypes.Email, user.Username),
                 }),
-                Expires = DateTime.Now.AddMinutes(1), //Tokenımın yaşam süresi 15 dk olsun
+                Expires = DateTime.Now.AddMinutes(15), //Tokenımın yaşam süresi 15 dk olsun
 
                 //key ve keyin şifreleme algoritması
                 SigningCredentials = new SigningCredentials(
